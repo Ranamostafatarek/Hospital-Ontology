@@ -1,18 +1,13 @@
 # HOSPITAL ONTOLOGY PROJECT
 
-1.	Problem Statement:
+# 1.	Problem Statement:
 
 We are representing a case study of a “Hospital System” by means of Ontologies and Semantic Web. 
 The hospital system includes Doctors, Nurses, Patients, a Pharmacy, Receptionists, Medicines, and Wards. 
 The project will be implemented in “Owl” through Protégé and it will be illustrated in details through an RDF diagram, a detailed RDF description, entities cardinality constraints, and finally, we will show several examples for info that are extracted using SPARQL queries. 
 
- 
-2.	RDF Graph:
 
-
-
-
-3.	Detailed RDF Description:
+# 2.	Detailed RDF Description:
 
 Classes:
 Person
@@ -47,7 +42,7 @@ Hold
 Check_in
 
 
-4.	Entities Cardinality Constraints:
+# 3.	Entities Cardinality Constraints:
 
 
 •	Doctor
@@ -83,34 +78,15 @@ Check_in
 
 
 
-
-
-
-
-5.	SPARQL Queries:
+# 4.	SPARQL Queries Presented Above:
 
 •	Query to extract Patients and their Doctor’s names:
- 
 •	Query to extract Patients, their Doctors and their Specialty:
 •	Query to extract Patients, their Address and Phone Number:
-
-
 •	Query to extract Patients, their Nurses and their Shifts:
-
-
 •	Query to extract Receptionists, their registered Patients and their Wards:
-
 •	Query to extract Receptionists, their Shifts and Phone Number:
-
-
-
 •	Query to extract Patients’ Names:
-
-
 •	Query to extract Doctors’ Names:
 •	Query to extract Receptionist’ Names:
-
-
-
 •	Query to extract Nurses’ Names:
-
