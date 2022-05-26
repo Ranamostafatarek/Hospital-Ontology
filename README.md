@@ -21,12 +21,19 @@ Medicine
 
 Data Properties:
 Person: Full_Name, Phone_Number, Address, ID
+
 Doctor: Speciality
+
 Patient: Ward_Id
+
 Nurse: Shift_Period 
+
 Receptionist: Shift_Period
+
 Ward: ID, Floor
+
 Medecine: Expiry_Date, Name
+
 Pharmacy: Floor, Working_Hours
 
 Object Properties:
