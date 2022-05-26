@@ -2,8 +2,10 @@
 
 # 1.	Problem Statement:
 
-We are representing a case study of a “Hospital System” by means of Ontologies and Semantic Web. 
+We are representing a case study of a “Hospital System” by means of Ontologies and Semantic Web.
+
 The hospital system includes Doctors, Nurses, Patients, a Pharmacy, Receptionists, Medicines, and Wards. 
+
 The project will be implemented in “Owl” through Protégé and it will be illustrated in details through an RDF diagram, a detailed RDF description, entities cardinality constraints, and finally, we will show several examples for info that are extracted using SPARQL queries. 
 
 
